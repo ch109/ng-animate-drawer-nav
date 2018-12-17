@@ -1,25 +1,10 @@
-# Demo App for Sticky Footer
+# Demo App for Sliding Side Navigation using Angular Animations
 
 This simple demo app is part of an updated article on [theCodeCampus blog](https://www.thecodecampus.de/blog/).
-The article can be found [here](https://www.thecodecampus.de/blog/material-2-sticky-footer-mat-sidenav/).  
-This example uses Angular 7 and Material 2.  
+The article can be found [here](https://www.thecodecampus.de/blog/angular-2-animate-creating-sliding-side-navigation/).  
+This example uses Angular 7.
 
-# Where can I find the running demo?
-
-Follow [this link](https://ch109.github.io/ng7-mat2-sticky-footer/).
-
-## What is it about?
-
-My guess is your using [Angular](https://angular.io/) in combination with 
-[Angular Material](https://material.angular.io/) and you need a 
-[sticky footer](https://css-tricks.com/couple-takes-sticky-footer/), which is under
-given circumstances not well documented.  
-The footer supports a variable height.
-
-## Can you point me directly to the solution?
-
-The most important file is `src/app/app.component.scss`.
-There you can find the scss rules to support a sticky footer.
+... WIP ...
 
 ## Run the example
 
